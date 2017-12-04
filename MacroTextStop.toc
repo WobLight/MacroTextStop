@@ -1,0 +1,5 @@
+## Interface: 11200
+## Title: MacroText|c00ff0000Stop|r
+## Notes: Hide the macro text from action buttons
+## Author: WobLight
+MacroTextStop.lua 
