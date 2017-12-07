@@ -3,7 +3,8 @@ for _,n in {
     "MultiBarBottomLeftButton",
     "MultiBarBottomRightButton",
     "MultiBarLeftButton",
-    "MultiBarRightButton"
+    "MultiBarRightButton",
+    "BonusActionButton"
 } do
     for i=1,12 do
         local f = getglobal(n..i.."Name")
